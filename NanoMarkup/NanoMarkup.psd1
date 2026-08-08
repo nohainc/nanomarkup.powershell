@@ -1,0 +1,1 @@
+@{ RootModule='NanoMarkup.psm1'; ModuleVersion='1.0.0'; GUID='5d12cf34-b7ab-4e4f-a2d8-f1a4a6bf6e6d'; Author='nohainc'; Description='Idiomatic, zero-dependency Nano Markup decoder and writer for PowerShell.'; PowerShellVersion='7.2'; FunctionsToExport=@('ConvertFrom-NanoMarkup','ConvertTo-NanoMarkup') }
